@@ -1,4 +1,28 @@
-                    GNU AFFERO GENERAL PUBLIC LICENSE
+Additional Licensing Terms (Section 7 of AGPLv3):
+
+This software is licensed under the GNU Affero General Public License v3.0 (AGPLv3).
+
+Additional conditions:
+
+1. This software may only be used in projects that are licensed under a strong copyleft license. Acceptable licenses include, but are not limited to:
+   - GNU General Public License v2 (GPLv2)
+   - GNU General Public License v3 (GPLv3)
+   - GNU Affero General Public License v3 (AGPLv3)
+   - CeCILL v2.1
+   - European Union Public License v1.2 (EUPL v1.2)
+   - Server Side Public License (SSPL)
+   - Open Software License (OSL)
+   - Real-time Public License (RTPL)
+
+2. A “strong copyleft license” is defined here as any license that requires modified and derivative works to be released under the same license terms when distributed or made available as a service, regardless of technical method.
+
+3. Projects using permissive or weak copyleft licenses — including but not limited to MIT, BSD (all variants), Apache, LGPL, or MPL — are not permitted to use this code without prior written permission from the author.
+
+4. To request an exception, please contact: 8.000.000zimbabwe_dolar@protonmail.com 
+
+These conditions are imposed under Section 7 of the AGPLv3.
+
+                  GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -629,13 +653,13 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+    Function Command: fork()/exec() safety and system()'s syntax
+    Copyright (C) 2025  PiGames/Çınar Kuzey KUMANLI
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published
     by the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+    any later version.
 
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
