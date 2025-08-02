@@ -26,7 +26,7 @@ void command(const std::string& komut) {
 
     // Eğer komut boşsa, çalıştırma
     if (args.empty()) {
-        std::cerr << "Boş komut!" << std::endl;
+        std::cerr << "empty command" << std::endl;
         return;
     }
 
@@ -43,13 +43,13 @@ void command(const std::string& komut) {
     pid_t pid = fork();
 
     if (pid == -1) {
-        std::cerr << "fork() hatası!" << std::endl;
+        std::cerr << "fork() error!" << std::endl;
     } else if (pid == 0) {
         // Çocuk işlemin içindeyiz → exec ile komutu çalıştır
         execvp(argv[0], argv.data());
 
         // Eğer exec başarısız olursa burası çalışır
-        std::cerr << "execvp başarısız!" << std::endl;
+        std::cerr << "execvp failed" << std::endl;
         exit(1);
     } else {
         // Ana işlem: Çocuğu bekle
