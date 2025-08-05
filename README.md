@@ -38,16 +38,22 @@ You may reuse this function in projects that are licensed under copyleft (strong
    - MPL
    - Not Allowed Without Permission:
     Projects using non-copyleft permissive licenses (MIT, BSD, Apache)
-    Proprietary or closed-source software
 If you want to use command() in such a context, please contact me at:
  8.000.000zimbabwe_dolar@protonmail.com
 I do not support the use of my code by corporations that exploit FOSS or contribute to closed platforms like macOS or FreeBSD.
 
-I believe in software freedom — not as a business model, but as a moral stance.
-If that makes me "less pragmatic", so be it.
-Apple's damned macOS is nothing more than a user-deceiving tool with a pretty GUI. Heaven on the outside, demonic on the inside.
-Because of that, a dumb community has formed that worships Apple like a god just for two flashy animations.
-And in this, those dumb users, flashy marketers, devilish deals — and your damn pragmatist philosophy — are all to blame.
-You pragmatists are just as guilty in this capitalist mess!
-(Of course, I understand pragmatism — you value quality more, and in some cases, you may be right. And I can't blame every pragmatist. A pragmatist like Linus Torvalds is the best kind. But some believers in pragmatism scream, 
-"PLEASE LOCK DOWN YOUR CODE AND BECOME MONOPOLY CORPORATIONS!" — and THAT DRIVES ME CRAZY!)
+I believe in software freedom — not as a business model, but as a moral stance.  
+If that makes me "less pragmatic", so be it.  
+
+Apple's macOS is nothing more than a user-deceiving tool with a pretty GUI — heaven on the outside, DEMONIC on the inside.  
+Because of that, a cult-like community has formed that worships Apple like a god, just for TWO FLASHY ANIMATIONS.  
+
+And in this mess — those unconscious users, manipulative marketers, devilish business deals — and YOUR IDEA THAT IS TOO LIBERAL FOR THIS INTERNET PRAGMATIST PHILOSOPHY — are ALL TO BLAME.  
+
+Some of you (not all) pragmatists are JUST AS GUILTY in this capitalist ecosystem!  
+(Of course, I understand pragmatism — you value quality and practicality, and in some cases, you may be right. I can't blame every pragmatist. A pragmatist like Linus Torvalds is the best kind.)
+
+But when some believers in pragmatism scream:  
+**"PLEASE LOCK DOWN YOUR CODE AND BECOME MONOPOLY CORPORATIONS!"** —  
+THAT DRIVES ME CRAZY!
+
