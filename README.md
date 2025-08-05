@@ -36,7 +36,7 @@ You may reuse this function in projects that are licensed under copyleft (strong
    - OSL
    - RTPL
    - MPL
- Not Allowed Without Permission:
+     Not Allowed Without Permission:
     Projects using non-copyleft permissive licenses (MIT, BSD, Apache)
     Proprietary or closed-source software
 If you want to use command() in such a context, please contact me at:
