@@ -1,0 +1,2 @@
+#!/bin/bash
+g++ -o testcommand testcommand.cpp command.hpp command.cpp && ./testcommand
