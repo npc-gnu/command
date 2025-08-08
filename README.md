@@ -43,8 +43,3 @@ If you want to use command() in such a context, please contact me at:
 I do not support the use of my code by corporations that exploit FOSS or contribute to closed platforms like macOS or FreeBSD.
 I believe in software freedom — not as a business model, but as a moral stance.  
 If that makes me "less pragmatic", so be it.
-
-But when some believers in pragmatism scream:  
-**"PLEASE LOCK DOWN YOUR CODE AND BECOME MONOPOLY CORPORATIONS!"** —  
-THAT DRIVES ME CRAZY!
-
