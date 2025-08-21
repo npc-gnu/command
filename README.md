@@ -1,3 +1,4 @@
+![command logo](commandlogo.png)
 # command() Function
 
 ## What is `command()`?
